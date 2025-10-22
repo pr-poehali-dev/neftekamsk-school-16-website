@@ -5,19 +5,19 @@ import Icon from "@/components/ui/icon";
 const Index = () => {
   const galleryImages = [
     {
-      url: "https://cdn.poehali.dev/projects/6ddab28d-35a1-451c-84ec-d16bcfdd6289/files/b7e5a483-9be5-44a6-ae60-bec3dc97ccb0.jpg",
-      title: "Здание школы",
-      description: "Современное образовательное учреждение"
+      url: "https://cdn.poehali.dev/files/92691ccb-f076-42cc-b6e7-820d7cb335ef.jpg",
+      title: "Главный вход школы №16",
+      description: "Здание МБОУ СОШ №16 г. Нефтекамск"
     },
     {
-      url: "https://cdn.poehali.dev/projects/6ddab28d-35a1-451c-84ec-d16bcfdd6289/files/e7d3e9d5-661b-4aa5-b19e-a61512289e8b.jpg",
-      title: "Учебный процесс",
-      description: "Интерактивные занятия с учениками"
+      url: "https://cdn.poehali.dev/files/f8579b68-8169-4c0b-af91-e917f9423c55.jpg",
+      title: "Фасад школы",
+      description: "Вход в образовательное учреждение"
     },
     {
-      url: "https://cdn.poehali.dev/projects/6ddab28d-35a1-451c-84ec-d16bcfdd6289/files/b5462503-b3b7-413d-9bb3-6adbaa1a4d0d.jpg",
-      title: "Спортивные мероприятия",
-      description: "Активная жизнь школьников"
+      url: "https://cdn.poehali.dev/files/91ece66a-ab44-4962-90ad-eeec7bee3158.jpg",
+      title: "Школьный двор",
+      description: "Территория школы с зелеными насаждениями"
     }
   ];
 
